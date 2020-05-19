@@ -1,3 +1,3 @@
 # Super Simple Todo
 
-A new Flutter project.
+Terceiro app com Flutter, um todo super simples com persistência.
